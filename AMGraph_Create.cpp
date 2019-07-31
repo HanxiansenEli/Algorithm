@@ -2,6 +2,9 @@
 
 using namespace std;
 
+const int MAX_SIZE = 64;
+const int INF = 32767;
+
 // 邻接矩阵
 struct AMGraph{
 	int vexs[MAX_SIZE];
