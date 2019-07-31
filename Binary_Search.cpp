@@ -1,8 +1,9 @@
 #include <iostream>
 
-#define MAX_SIZE 64
-
 using namespace std;
+
+const int MAX_SIZE = 64;
+const int INF = 32767;
 
 struct SSTable{
 	int elem[MAX_SIZE];
