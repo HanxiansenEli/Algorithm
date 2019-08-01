@@ -21,3 +21,4 @@ void solve()
 		flag[i] = false;
 	DFS(G, flag, 0);
 }
+
