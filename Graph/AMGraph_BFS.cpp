@@ -38,3 +38,4 @@ void solve()
 	CreateUDN(G);
 	BFS(G, 0);
 }
+
