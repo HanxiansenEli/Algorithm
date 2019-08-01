@@ -42,3 +42,4 @@ void solve()
 	if(res)	cout << res;
 	else	cout << "Not found" << endl;
 }
+
