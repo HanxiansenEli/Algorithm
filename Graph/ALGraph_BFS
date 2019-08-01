@@ -41,3 +41,4 @@ void solve()
 	CreateUDG(G);
 	BFS(G, 0);
 }
+
