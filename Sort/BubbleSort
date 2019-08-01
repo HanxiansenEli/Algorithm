@@ -38,6 +38,7 @@ void solve()
 		cout << A[i].key << " ";
 }
 
+
 int main()
 {
 	solve();
