@@ -34,7 +34,7 @@ void solve()
 		A[i].key = T[i];
 	
 	BubbleSort(A, len);
-	for(unsigned int i = 1; i < len; i++)
+	for(unsigned int i = 0; i < len; i++)
 		cout << A[i].key << " ";
 }
 
